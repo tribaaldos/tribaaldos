@@ -1,7 +1,8 @@
 # Angel Tribaldos - Software Developer
 
 ## Introduction
-Hello, everyone! I'm Angel Tribaldos, a passionate software developer with a background in computer science. I have experience working with a variety of technologies and languages, including JavaScript, Python, HTML, CSS, Express, Django, MySQL, and MongoDB. 
+Hello, everyone! I'm Angel Tribaldos, a passionate software developer with a background in computer science. I have experience working with a variety of technologies and languages, including JavaScript, React, Python, HTML, CSS, Express, Django, MySQL, and MongoDB. 
+
 
 ## Skills
 - Programming Languages: JavaScript, Python
@@ -9,22 +10,15 @@ Hello, everyone! I'm Angel Tribaldos, a passionate software developer with a bac
 - Databases: MySQL, MongoDB
 - Version Control: Git
 
-## Experience
-
-
 ## Projects
-Here are some noteworthy projects I have worked on:
 
-1. **Online Marketplace** 
+REACT Full Stack Forum Application
 
-2. **Web Scraper** - 
-
-3. **Content Management System** - 
-
+E-Commerce: JS Express
 
 ## Education
-- Bachelor of Science in Computer Science (Your University Name, Year)
-- Relevant coursework: Data Structures, Algorithms, Web Development, Database Management Systems
+- General Assembly Bootcamp ( 3 months immersive ) Los Angeles, California
+- Associate degree in Computer Science ( 4 years ) Barcelona, Spain
 
 ## Contact Information
 - Email: tribaaldos@gmail.com
