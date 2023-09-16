@@ -25,6 +25,7 @@ E-Commerce: JS Express
 - LinkedIn: [linkedin.com/in/angeltribaldos](https://www.linkedin.com/in/angeltribaldos)
 - GitHub: [github.com/tribaaldos](https://github.com/tribaaldos)
 - [192.168.1.32:3000](http://192.168.1.32:3000)
+- [https://www.playstation.com/en-us/network/internet-browser/](https://www.playstation.com/en-us/network/internet-browser/)
 
 Feel free to reach out to me if you have any questions or opportunities for collaboration. I am always excited to work on new projects and expand my knowledge in the field of software development.
 
