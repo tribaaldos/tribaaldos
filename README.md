@@ -1,12 +1,12 @@
 # Angel Tribaldos - Software Developer
 
 ## Introduction
-Hello, everyone! I'm Angel Tribaldos, a passionate software developer with a background in computer science. I have experience working with a variety of technologies and languages, including JavaScript, React, Python, HTML, CSS, Express, Django, MySQL, and MongoDB. 
 
+I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Three.js and React-Three-Fiber. Committed to continuous learning, I thrive in collaborative team environments. Proficient in Node.js, Express, Next.js, and skilled in frontend design using Bootstrap and Tailwind CSS.
 
 ## Skills
-- Programming Languages: JavaScript, Python
-- Web Development: HTML, CSS, Express.js, Django
+- Programming Languages: JavaScript, Typescript, GLSL, Python
+- Frameworks and Libraries : React, Django, Three.Js, R3F, Bootstrap, TailWindCss...
 - Databases: MySQL, MongoDB
 - Version Control: Git
 
