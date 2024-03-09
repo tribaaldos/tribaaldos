@@ -25,8 +25,7 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 ![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribaaldos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Enter some description](https://leetcode-badge-sage.vercel.app/badge/{tribaaldos}?theme={light|dark|neutral})
 
 ## Education
 - General Assembly Bootcamp ( 3 months immersive ) Los Angeles, California
