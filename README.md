@@ -35,6 +35,7 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 
 ## CODING PLATFORMS
 ![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=tribaaldos" alt="LeetCode Badges"/>
 
 ## Contact Information
 - Email: tribaaldos@gmail.com
