@@ -10,10 +10,6 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 - Databases: MySQL, MongoDB
 - Version Control: Git
 
-## Projects
-
-REACT Full Stack Forum Application
-
 E-Commerce: JS Express
 
 ## Education
