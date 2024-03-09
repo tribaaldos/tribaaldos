@@ -22,8 +22,6 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 </div>
 
 🔥 My Stats: 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=tribaaldos" alt="LeetCode Badges"/>
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tribaaldos)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tribaaldos&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -35,7 +33,6 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 
 ## CODING PLATFORMS
 ![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
-// ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tribaaldos)
 
 ## Contact Information
 - Email: tribaaldos@gmail.com
