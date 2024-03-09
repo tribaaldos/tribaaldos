@@ -21,13 +21,18 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+🔥 My Stats: 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tribaaldos&theme=dark&background=000000)](https://git.io/streak-stats)
-![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribaaldos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Education
 - General Assembly Bootcamp ( 3 months immersive ) Los Angeles, California
 - Associate degree in Computer Science ( 4 years ) Barcelona, Spain
+
+## CODING PLATFORMS
+![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
 
 ## Contact Information
 - Email: tribaaldos@gmail.com
