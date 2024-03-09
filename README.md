@@ -32,8 +32,10 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 - Associate degree in Computer Science ( 4 years ) Barcelona, Spain
 
 ## CODING PLATFORMS
+![Leetcode Stats](https://leetcard.jacoblin.cool/tribaaldos?ext=contest)
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
-![](https://leetcard.jacoblin.cool/tribaaldos?border=0&radius=20)
 
 ## Contact Information
 - Email: tribaaldos@gmail.com
