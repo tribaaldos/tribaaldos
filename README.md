@@ -11,6 +11,7 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 - Version Control: Git
 
 E-Commerce: JS Express
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tribaaldos&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Education
 - General Assembly Bootcamp ( 3 months immersive ) Los Angeles, California
