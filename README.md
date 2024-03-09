@@ -33,6 +33,7 @@ I specialize in Javascript/Typescript, React, and WebGL, with recent focus on Th
 
 ## CODING PLATFORMS
 ![Codewars](https://github.r2v.ch/codewars?user=tribaaldos&stroke=COLOR)
+![](https://leetcard.jacoblin.cool/tribaaldos?border=0&radius=20)
 
 ## Contact Information
 - Email: tribaaldos@gmail.com
